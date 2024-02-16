@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ElmiRabelo
-- 👀 I’m interested in everything related to tech and learning about different cultures.
-- 🌱 I’m currently learning more about Node.Js.
+- 👀 I’m interested in everything related to tech and my main stack is React, React Native, Material UI and Redux.
+- 🌱 I’m currently learning more about back-end and Flutter.
 - 💞️ I’m looking to collaborate on projects that change people's life.
 
 <!---
